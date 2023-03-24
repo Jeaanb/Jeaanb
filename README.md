@@ -4,6 +4,7 @@ Apaixonado por tecnologia. Atualmente aprendendo sobre front-end.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeaanbruno/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-bruno-gomes-/)
 [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCd9eV0AvTu8Q7uacsraQY6w) 
 
 
