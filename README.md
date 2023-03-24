@@ -3,9 +3,8 @@ Ola, Eu sou o Jean Bruno! 🖐️
 Apaixonado por tecnologia. Atualmente aprendendo sobre front-end.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeaanbruno/) 
-
-[![LinkedIn](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCd9eV0AvTu8Q7uacsraQY6w) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeaanbruno/)
+[![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCd9eV0AvTu8Q7uacsraQY6w) 
 
 
 # 💻 Tech Stack:
