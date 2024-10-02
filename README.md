@@ -1,6 +1,6 @@
 Ola, Eu sou o Jean Bruno! 🖐️
 
-Apaixonado por tecnologia. Atualmente aprendendo sobre front-end.
+💻 Desenvolvedor Front-end em formação | 🚀 Entusiasta de Tecnologia
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeaanbruno/)
