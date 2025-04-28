@@ -1,4 +1,5 @@
 Olá, eu sou o Jean Bruno! 👋
+
 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
 💻 Atualmente focado na Formação Fullstack JavaScript da OneBitCode
