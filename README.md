@@ -2,9 +2,9 @@ Olá, eu sou o Jean Bruno! 👋
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
-💻 Atualmente focado na Formação Fullstack JavaScript da OneBitCode
+💻 Atualmente estudando na Formação Fullstack JavaScript da OneBitCode
 
-🚀 Objetivo: tornar-me um desenvolvedor Fullstack, trabalhando com JavaScript, Node.js, React, e SQL
+🚀 Buscando me tornar um desenvolvedor Fullstack com foco em JavaScript (ES6+), Node.js, React, SQL e ferramentas modernas do ecossistema web
 
 🧠 Focado neste momento:
 
