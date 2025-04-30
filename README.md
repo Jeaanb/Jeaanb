@@ -8,4 +8,4 @@ Olá, eu sou o Jean Bruno! 👋
 
 Tecnologias que utilizo:
 Linguagens
-JavaScript | HTML5 | CSS3
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
