@@ -6,6 +6,6 @@ Olá, eu sou o Jean Bruno! 👋
 
 🚀 Objetivo: tornar-me um desenvolvedor Fullstack, trabalhando com JavaScript, Node.js, React, e SQL
 
-Tecnologias que utilizo:
-Linguagens
+🧠 Focado neste momento:
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
