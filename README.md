@@ -9,3 +9,7 @@ Olá, eu sou o Jean Bruno! 👋
 🧠 Focado neste momento:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeaanb&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br
+)
