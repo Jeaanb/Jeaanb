@@ -2,11 +2,16 @@ Olá, eu sou o Jean Bruno! 👋
 
 **`Desenvolvedor Front-end`**
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas
+    🎓 Formação: Análise e Desenvolvimento de Sistemas
+    
+    💻 Foco atual: Aperfeiçoamento em JavaScript e tecnologias modernas
+    
+    🎯 Objetivo: Tornar-me desenvolvedor Fullstack
+    
+    📚 Sempre aprendendo: Novas tecnologias e melhores práticas
 
-💻 Atualmente me aperfeiçoando nos estudos em JavaScript
 
-🚀 Buscando me tornar um desenvolvedor Fullstack com foco em JavaScript (ES6+), Node.js, React, SQL e ferramentas modernas do ecossistema web
+<a href="https://www.linkedin.com/in/jean-bruno-gomes-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ---
 
@@ -56,14 +61,14 @@ Olá, eu sou o Jean Bruno! 👋
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Jeaanbh&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeaanb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
