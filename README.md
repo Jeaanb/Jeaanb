@@ -22,7 +22,11 @@ Olá, eu sou o Jean Bruno! 👋
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeaanb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p><br>
+</p>
+
+
+
+
 
 🧠 Focado neste momento:
 
