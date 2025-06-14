@@ -23,11 +23,7 @@ Olá, eu sou o Jean Bruno! 👋
   />
 
 </p>
-
-
-
-
-
+<br><br>
 🧠 Focado neste momento:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
